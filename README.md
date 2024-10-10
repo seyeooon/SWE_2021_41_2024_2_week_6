@@ -3,7 +3,7 @@
 ## Week 4 Assignment
  * https://github.com/seyeooon/SWE_2021_41_2024_2_week_4
 
-'''python
+```python
 def summ(n) :
     x = 0
     while n // 1 != 0 :
@@ -23,5 +23,5 @@ def isHappy(n) :
           break
 
 isHappy(2)
-'''
+```
  * Descripttion of your code
