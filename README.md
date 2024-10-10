@@ -1,8 +1,9 @@
 # SWE_2021_41_2024_2_week_6
 ---
 ## Week 4 Assignment
- * https://github.com/seyeooon/SWE_2021_41_2024_2_week_4 
-> <code>
+ * https://github.com/seyeooon/SWE_2021_41_2024_2_week_4
+
+<code>
 def summ(n) :
     x = 0
     while n // 1 != 0 :
