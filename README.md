@@ -33,7 +33,17 @@ isHappy(2)
 >```
 > * Explanation of your commandline and your output
 
->```exec
+>```python
 >docker exec ossp-container git --versior
+>```
+> * Explanation of your commandline and your output
+
+>```python
+>docker exec ossp-container python3 --version
+>```
+> * Explanation of your commandline and your output
+
+>```python
+>docker inspect --format="{{.HostConfig.Binds}}" ossp-container
 >```
 > * Explanation of your commandline and your output
