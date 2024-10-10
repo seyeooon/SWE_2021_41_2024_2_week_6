@@ -2,3 +2,25 @@
 ---
 ## Week 4 Assignment
  * https://github.com/seyeooon/SWE_2021_41_2024_2_week_4 
+> <code>
+def summ(n) :
+    x = 0
+    while n // 1 != 0 :
+        x += (n % 10) ** 2
+        n = int(n / 10)
+    return (x)
+
+
+def isHappy(n) :
+  while 1 :
+      n = summ(n)
+      if n == 1 :
+          return True
+          break
+      elif n == 4 :
+          return False
+          break
+
+isHappy(2)
+</code>
+ * Descripttion of your code
