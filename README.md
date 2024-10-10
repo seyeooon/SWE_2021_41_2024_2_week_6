@@ -28,7 +28,12 @@ isHappy(2)
 
 ---
 ## Week 5 Assignment
->```c
+>```python
 >docker exec ossp-container cat /etc/os-release
+>```
+> * Explanation of your commandline and your output
+
+>```exec
+>docker exec ossp-container git --versior
 >```
 > * Explanation of your commandline and your output
