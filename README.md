@@ -25,3 +25,8 @@ def isHappy(n) :
 isHappy(2)
 ```
  * Descripttion of your code
+
+---
+## Week 5 Assignment
+>``` docker exec ossp-container cat /etc/os-release ```
+> * Explanation of your commandline and your output
