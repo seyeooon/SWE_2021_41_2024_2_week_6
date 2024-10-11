@@ -24,7 +24,7 @@ def isHappy(n) :
 
 isHappy(2)
 ```
- * Descripttion of your code
+ * Description of your code
 
 ---
 ## Week 5 Assignment
